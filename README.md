@@ -6,7 +6,8 @@
 <h4 align="start">Soy un programador junior, especialmente interesado en frontend, que es la parte más visual aunque no por eso deja de gustarme el backend. Soy una persona responsable y muy adaptable, siempre dispuesto a aprender cosas nuevas.</h4>
 <br>
 
-## 🛠️ Habilidades
+<details>
+	## 🛠️ Habilidades
 
 ### 👉 Lenguajes de Programación
 
@@ -130,4 +131,4 @@
 	<a href="mailto:d4nlglss@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/D4nlglss"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 </p>
-
+</details>
