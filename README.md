@@ -7,7 +7,8 @@
 <br>
 
 <details>
-
+<summary> Más info. 👇</summary>
+	
 ## 🛠️ Habilidades
 
 ### 👉 Lenguajes de Programación
