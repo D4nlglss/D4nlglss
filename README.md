@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AB22&background=FFFFFF00&width=325&lines=Programador+junior;Desarrollador+Full%20Stack;Formaci%C3%B3n+cont%C3%ADnua;T%C3%A9cnico+superior+DAM" alt="Typing SVG" />
 </p>
 <hr/>
-<h4 align="start">Soy un programador junior, especialmente interesado en front-end, que es la parte más visual aunque no por eso deja de gustarme el back-end. Soy una persona responsable y muy adaptable, siempre dispuesto a aprender cosas nuevas.</h4>
+<h4 align="start">Soy un programador junior, especialmente interesado en frontend, que es la parte más visual aunque no por eso deja de gustarme el backend. Soy una persona responsable y muy adaptable, siempre dispuesto a aprender cosas nuevas.</h4>
 <br>
 
 ## 🛠️ Habilidades
