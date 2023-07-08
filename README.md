@@ -120,7 +120,7 @@
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D4nlglss&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
   <br/>
-  <b>Note:</b> El gráfico sólo informa de los lenguajes que componen los repositorios públicos y no reflejan ni experiencia ni habilidad.
+  <b>Note:</b> El gráfico sólo informa de los lenguajes que componen los repositorios públicos y no condicionan ni experiencia ni habilidad.
   </p>
 
 <br/>
