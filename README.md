@@ -38,10 +38,6 @@
 <a href="#" target="_blank"> 
     <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=FFFFFF">
 </a>
-	  &emsp;
-<a href="#" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/-C%20Sharp-239120?logo=c-sharp&logoColor=FFFFFF">
-</a>
 </p>
 
 ### 👉 Frontend
@@ -132,5 +128,6 @@
 <p>
 	<a href="mailto:d4nlglss@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/D4nlglss"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BLxu%2FYsO9R16IlSiFCQkRBQ%3D%3D"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 </details>
