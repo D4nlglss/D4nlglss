@@ -14,21 +14,13 @@
 ### 👉 Lenguajes de Programación
 
 <p align="left"> 
-  &emsp;
-<a href="#" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/-Java-9F1D20?logo=openjdk&logoColor=FFFFFF">
+	  &emsp;
+<a href="#" target="_blank"> 
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=FFFFFF">
 </a>
 	  &emsp;
 <a href="#" target="_blank">
     <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=FFFFFF">
-</a>
-	  &emsp;
-<a href="#" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=FFFFFF">
-</a>
-	  &emsp;
-<a href="#" target="_blank"> 
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=FFFFFF">
 </a>
 	  &emsp;
 <a href="#" target="_blank"> 
@@ -42,10 +34,6 @@
 
 ### 👉 Frontend
 <p align="left"> 
-	  &emsp;
-<a href="#" target="_blank"> 
-    <img alt="Vuejs" src="https://img.shields.io/badge/-Vuejs-4FC08D?logo=vuedotjs&logoColor=FFFFFF">
-</a>
 	  &emsp;
 <a href="#" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=FFFFFF">
@@ -68,10 +56,6 @@
 </a>
 	  &emsp;
 <a href="#" target="_blank"> 
-    <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=FFFFFF">
-</a>
-	  &emsp;
-<a href="#" target="_blank"> 
     <img alt="Express" src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=FFFFFF">
 </a>
 	  &emsp;
@@ -83,10 +67,6 @@
 ### 👉 Aplicaciones Móviles
 
 <p align="left"> 
-	  &emsp;
-<a href="#" target="_blank"> 
-    <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=FFFFFF">
-</a>
 	  &emsp;
 <a href="#" target="_blank"> 
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=FFFFFF">
@@ -109,19 +89,6 @@
 </a>
 	  &emsp;
 </p>
-<br/>
-
-## 📊 Extadísticas de GitHub
-
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=D4nlglss&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D4nlglss&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
-  <br/>
-  <b>Note:</b> El gráfico sólo informa de los lenguajes que componen los repositorios públicos y no condicionan ni experiencia ni habilidad.
-  </p>
-
 <br/>
 
 ## 🙋‍♀️ Contáctame
