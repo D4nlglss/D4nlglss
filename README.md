@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AE42&center=true&width=550&lines=Desarrollador+de+Aplicaciones+Multiplataforma;Programador+junior;Siempre+aprendiendo" alt="Typing SVG" />
 </p>
 <hr/>
-<h4 align="start">Soy un programador junior, mi lenguaje principal es PHP nativo.</h4>
+<h4 align="start">Soy un programador junior, mi lenguaje principal es PHP nativo y Java con Spring Boot</h4>
 <br>
 
 <details>
